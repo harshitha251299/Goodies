@@ -1,0 +1,10 @@
+The goodies selected for distribution are:
+
+SandwichToaster: 2195
+CultPass: 2799
+Scale: 4999
+FitbitPlus: 7980
+MicrowaveOven: 9800
+Alexa: 9999
+
+And the difference between the chosen goodie with highest price and the lowest price is 7804
